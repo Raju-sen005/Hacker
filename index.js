@@ -9,7 +9,7 @@ setTimeout(() => {
     document.body.style.backgroundColor = "green";
     document.body.style.fontFamily = "'Courier New', Courier, monospace";
     document.body.style.color = "red";
-    document.body.style.fontSize = "larger";
+    document.body.style.fontSize = "25px";
   }, 1500);
   setTimeout(() => {
     document.write("fetching  all the device data...<br/>");
